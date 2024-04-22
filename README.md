@@ -18,16 +18,16 @@ Our mobile application offers a comprehensive solution for job seekers, combinin
 - **Custom Header Buttons**: Access navigation options and user profile features conveniently with our custom-designed header buttons.
 
 ## Screenshots
-![first](images/popular_jobs.jpeg)
+
 <img src="images/popular_jobs.jpeg" alt="Login page" width="300">
 
-![second](images/nearby_jobs.jpeg)
+
 <img src="images/nearby_jobs.jpeg" alt="Login page" width="300">
 
-![third](images/jobs_desc.jpeg)
+
 <img src="images/jobs_desc.jpeg" alt="Login page" width="300">
 
-![fourth](images/search_func.jpeg)
+
 <img src="images/search_func.jpeg" alt="Login page" width="300">
 
 ## Video Demo
